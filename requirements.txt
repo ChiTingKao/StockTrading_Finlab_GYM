@@ -1,0 +1,7 @@
+numpy
+pandas
+gymnasium
+matplotlib
+finlab
+gymnasium
+stable_baselines3
