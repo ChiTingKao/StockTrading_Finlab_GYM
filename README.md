@@ -16,3 +16,8 @@
 
 #### -回測與績效圖示
 <img width="877" height="470" alt="image" src="https://github.com/user-attachments/assets/d6950f92-1c9b-44ed-9ed5-591f7432eaad" />
+
+##### Annual Return: 0.0728
+##### Annual Volatility: 1.8679
+##### Sharpe Ratio: 0.0390
+##### Max Drawdown: -0.4069
